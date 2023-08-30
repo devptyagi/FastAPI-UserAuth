@@ -1,0 +1,4 @@
+venv
+sql_app.db
+.env
+.idea
